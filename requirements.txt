@@ -1,0 +1,8 @@
+requests
+OTXv2
+nexmo
+pycryptodome
+splunk-sdk
+splunklib
+paramiko
+pywinrm
